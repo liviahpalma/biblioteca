@@ -1,3 +1,0 @@
-/*
-    Conceitos e dicas sobre cypress
-*/
